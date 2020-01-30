@@ -43,6 +43,6 @@ end
 
 def retrieve_last_element_from_array(array)
   
-  alphabet = ["a","b","c", "d"]
-  alphabet.index("d")
+  alphabet = ["wow", "I", "am", "really", "learning", "arrays!"]
+  alphabet.index[-1]
 end
