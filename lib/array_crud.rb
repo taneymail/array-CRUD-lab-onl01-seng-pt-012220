@@ -8,8 +8,8 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  favorite_animals = ["cat","dog","hamster","pig"]
-  favorite_animals.push "koala"
+  alphabet = ["a","b","c"]
+  
   puts favorite_animals.inspect
 end
 
