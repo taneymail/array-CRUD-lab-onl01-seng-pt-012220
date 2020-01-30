@@ -49,5 +49,5 @@ end
 def retrieve_last_element_from_array(array)
   
   favorite_animals = ["cat","dog","hamster","pig","koala"]
-  favorite_animals = 
+  favorite_animals.index("koala")
 end
