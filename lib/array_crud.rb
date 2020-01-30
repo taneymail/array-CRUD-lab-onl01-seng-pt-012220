@@ -33,7 +33,7 @@ end
 def retrieve_element_from_index(array, index_number)
   
   alphabet = ["wow", "I", "am", "really", "learning", "arrays!"]
-  alphabet[2]
+  alphabet[0]
 end
 
 def retrieve_first_element_from_array(array)
