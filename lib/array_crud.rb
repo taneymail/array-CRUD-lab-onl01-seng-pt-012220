@@ -10,13 +10,12 @@ def add_element_to_end_of_array(array, element)
   
   alphabet = ["a","b","c"]
   alphabet.push ("d")
-  puts favorite_animals.inspect
 end
 
 def add_element_to_start_of_array(array, element)
   
-  favorite_animals = ["cat","dog","hamster","pig"]
-  favorite_animals.unshift("kangaroo")
+  alphabet = ["cat","dog","hamster","pig"]
+  alphabet.unshift("kangaroo")
   puts favorite_animals.inspect
 end
 
