@@ -22,8 +22,9 @@ end
 
 def remove_element_from_end_of_array(array)
   
-  
-  
+  favorite_animals = ["cat","dog","hamster","pig","koala"]
+  favorite_animals.shift
+  puts favorite_animals.inspect
 end
 
 def remove_element_from_start_of_array(array)
