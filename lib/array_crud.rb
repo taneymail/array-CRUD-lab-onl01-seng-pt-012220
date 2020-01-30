@@ -32,14 +32,12 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  favorite_animals = ["cat","dog","hamster","pig","koala"]
-  favorite_animals[2]
-  puts favorite_animals.inspect
+  alphabet = ["a","b","c"]
+  alphabet[2]
 end
 
 def retrieve_first_element_from_array(array)
-  favorite_animals.first
-  puts favorite_animals.inspect
+  alphabet.first
 end
 
 def retrieve_last_element_from_array(array)
