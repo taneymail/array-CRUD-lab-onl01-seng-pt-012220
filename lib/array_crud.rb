@@ -15,8 +15,8 @@ end
 
 def add_element_to_start_of_array(array, element)
   
-  favorite_animals = ["cat","dog","hamster","pig"]
-  favorite_animals.unshift
+  favorite_animals = ["cat","dog","hamster","pig","koala"]
+  favorite_animals.unshift("kangaroo")
   puts favorite_animals.inspect
 end
 
