@@ -29,9 +29,13 @@ end
 
 def remove_element_from_start_of_array(array)
   
+  favorite_animals = ["cat","dog","hamster","pig","koala"]
+  favorite_animals.shift
+  puts favorite_animals.inspect
 end
 
 def retrieve_element_from_index(array, index_number)
+  
   
 end
 
