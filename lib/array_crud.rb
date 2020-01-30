@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   
-  alphabet = ["a","b","c", "d"]
+  alphabet = ["I", "am", "really", "learning"]
   alphabet.unshift("wow")
 end
 
