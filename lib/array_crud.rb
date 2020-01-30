@@ -43,7 +43,7 @@ end
 
 def retrieve_first_element_from_array(array)
   favorite_animals.first
-  
+  puts favorite_animals.inspect
 end
 
 def retrieve_last_element_from_array(array)
