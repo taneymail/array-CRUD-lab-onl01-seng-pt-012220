@@ -36,7 +36,8 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  
+  favorite_animals = ["cat","dog","hamster","pig","koala"]
+  favorite_animals
 end
 
 def retrieve_first_element_from_array(array)
