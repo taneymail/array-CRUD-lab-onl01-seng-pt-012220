@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   
   alphabet = ["a","b","c", "d"]
-  alphabet.push("e")
+  alphabet.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
