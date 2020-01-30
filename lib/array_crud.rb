@@ -42,6 +42,6 @@ end
 
 def retrieve_last_element_from_array(array)
   
-  favorite_animals = ["cat","dog","hamster","pig","koala"]
-  favorite_animals.index("koala")
+  alphabet = ["a","b","c"]
+  alphabet.index("d")
 end
