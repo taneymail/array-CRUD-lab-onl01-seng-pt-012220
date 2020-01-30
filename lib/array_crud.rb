@@ -26,7 +26,7 @@ end
 
 def remove_element_from_start_of_array(array)
   
-  alphabet = ["a","b","c", "d"]
+  alphabet = ["wow", "I", "am", "really", "learning", "arrays!"]
   alphabet.shift
 end
 
