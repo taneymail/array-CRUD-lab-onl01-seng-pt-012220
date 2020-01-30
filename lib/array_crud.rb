@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   
   alphabet = ["a","b","c"]
-  alphabet.push << "d"
+  alphabet.push ("d")
   puts favorite_animals.inspect
 end
 
