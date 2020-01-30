@@ -20,9 +20,8 @@ end
 
 def remove_element_from_end_of_array(array)
   
-  favorite_animals = ["cat","dog","hamster","pig","koala"]
-  favorite_animals.pop
-  puts favorite_animals.inspect
+  alphabet = ["a","b","c"]
+  alphabet.pop
 end
 
 def remove_element_from_start_of_array(array)
