@@ -32,7 +32,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  alphabet = ["a","b","c", "d"]
+  alphabet = ["wow", "I", "am", "really", "learning", "arrays!"]
   alphabet[2]
 end
 
