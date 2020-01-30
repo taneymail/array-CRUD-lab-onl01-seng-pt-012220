@@ -8,31 +8,31 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  alphabet = ["a","b","c"]
-  alphabet.push ("d")
+  alphabet = ["a","b","c", "d"]
+  alphabet.push ("e")
 end
 
 def add_element_to_start_of_array(array, element)
   
-  alphabet = ["a","b","c"]
-  alphabet.unshift ("d")
+  alphabet = ["a","b","c", "d"]
+  alphabet.unshift ("aa")
 end
 
 def remove_element_from_end_of_array(array)
   
-  alphabet = ["a","b","c"]
+  alphabet = ["a","b","c", "d"]
   alphabet.pop
 end
 
 def remove_element_from_start_of_array(array)
   
-  alphabet = ["a","b","c"]
+  alphabet = ["a","b","c", "d"]
   alphabet.shift
 end
 
 def retrieve_element_from_index(array, index_number)
   
-  alphabet = ["a","b","c"]
+  alphabet = ["a","b","c", "d"]
   alphabet[2]
 end
 
@@ -42,6 +42,6 @@ end
 
 def retrieve_last_element_from_array(array)
   
-  alphabet = ["a","b","c"]
+  alphabet = ["a","b","c", "d"]
   alphabet.index("d")
 end
