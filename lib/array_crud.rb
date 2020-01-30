@@ -23,7 +23,7 @@ end
 def remove_element_from_end_of_array(array)
   
   favorite_animals = ["cat","dog","hamster","pig","koala"]
-  favorite_animals.shift
+  favorite_animals.pop
   puts favorite_animals.inspect
 end
 
